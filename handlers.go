@@ -23,7 +23,7 @@ import (
 	"google.golang.org/grpc/metadata"
 	"google.golang.org/grpc/status"
 
-	"github.com/ameetchhatwal/grpcurl"
+	"github.com/fullstorydev/grpcurl"
 )
 
 // RPCInvokeHandler returns an HTTP handler that can be used to invoke RPCs. The
