@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ameetchhatwal/grpcurl"
+	"github.com/fullstorydev/grpcurl"
 	"github.com/jhump/protoreflect/desc"
 	"github.com/jhump/protoreflect/grpcreflect"
 	"golang.org/x/net/context"

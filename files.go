@@ -7,7 +7,7 @@ import (
 	"google.golang.org/grpc"
 	rpb "google.golang.org/grpc/reflection/grpc_reflection_v1alpha"
 
-	"github.com/ameetchhatwal/grpcurl"
+	"github.com/fullstorydev/grpcurl"
 )
 
 // AllFilesViaReflection returns a slice that contains the file descriptors
